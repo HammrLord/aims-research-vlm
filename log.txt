@@ -1,0 +1,12 @@
+Image: 01_coffee_finger_cake.jpg
+Summary: Summary: Make a coffee sponge cake; prepare a coffee buttercream frosting and a chocolate ganache. Layer the cake with frosting and ganache, and decorate as desired.
+
+Image: 02_spit_roasted_pork_wraps.jpg
+Summary: Summary: Marinate pork in a mixture of spices and herbs. Roast the pork on a spit until tender and slightly charred. Serve in warm tortillas or flatbreads with desired toppings.
+
+Image: 03_red_cabbage_rice_fry.jpg
+Summary: Summary:  Finely shred red cabbage and sauté with garlic, ginger, and aromatics. Stir in cooked rice and toss until heated through. Garnish with cilantro and fried onions.
+
+Image: 04_smoky_bone_slabs.jpg
+Summary: Summary: Season and roast pork ribs until tender and slightly smoky.  Serve with your favorite barbecue sauce.
+
