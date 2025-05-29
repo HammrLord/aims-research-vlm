@@ -6,7 +6,7 @@ from main import generate_summary
 from dotenv import load_dotenv
 
 st.title("🍽️Cook My Image")
-st.secrets["Google_API_KEY"] = os.getenv("GOOGLE_API_KEY")
+
 def stream_data(text):
     for word in text.split(" "):
         yield word + " "
