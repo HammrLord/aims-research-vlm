@@ -39,7 +39,7 @@ def generate_summary(test_image_path, test_title, json_path, img_dir,API_KEY):
             "text": (
                 """You are a chef's assistant that summarizes recipes in 3 lines. Below are some examples with\
                     a dish noisy title, an image, and a short recipe. Analyze the examples and then write a similar summary\
-                    for the test image."""
+                    for the test image. If the image and title do not match ask the user to provide a correct noisy title for the image."""
             )
         }
     ]
