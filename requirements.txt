@@ -1,5 +1,5 @@
 langchain_core
-langchain
 langchain-google-genai
 dotenv
 pillow
+streamlit

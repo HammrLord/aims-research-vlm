@@ -10,3 +10,6 @@ Summary: Summary:  Finely shred red cabbage and sauté with garlic, ginger, and 
 Image: 04_smoky_bone_slabs.jpg
 Summary: Summary: Season and roast pork ribs until tender and slightly smoky.  Serve with your favorite barbecue sauce.
 
+Image: 05_fried_herb_balls.jpg
+Summary: Summary: Combine ricotta, herbs, and spices; form into small balls. Bread the balls and fry in hot oil until golden brown. Serve warm with a dipping sauce.
+
